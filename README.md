@@ -1,2 +1,3 @@
-# AD_EIT
-In this repository we use automatic differentation to solve the Electrical Impedance Tomography problem.
+[![Python package](https://github.com/inductiva/impedance/actions/workflows/python-package.yml/badge.svg)](https://github.com/inductiva/impedance/actions/workflows/python-package.yml)
+
+[![Documentation Status](https://readthedocs.com/projects/inductiva-research-labs-impedance/badge/?version=latest&token=8fc65f65e48a206b9c74232ab4ee24f7538ec47ae0773b6cc61543eadc4bde38)](https://inductiva-research-labs-impedance.readthedocs-hosted.com/en/latest/?badge=latest)
